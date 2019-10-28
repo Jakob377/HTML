@@ -1,30 +1,26 @@
 body {
     background-color:rgb(14, 160, 92);
-    background: url("coolv3.jpg") 100px;
-    background-position: center;
+    
 }
   
 p {
-    color: white;
+    color: black;
     font-size: 30px;
 }
 #list1 {
-    color: white;
+    color: black;
     font-size: 15px;
 }
-
   
 #title {
     color: white;
     text-align: center;
     font-family:sans-serif ;
     border: 5px solid rgb(245, 250, 247);
-    background-color:black;
-    
 }
 footer {
     font-family:Arial, Helvetica, sans-serif;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 #navbar {
@@ -33,7 +29,6 @@ footer {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    background-color:black;
 }
 #nav {
     float: left;
@@ -48,5 +43,5 @@ footer {
 }
    
 #nav2:hover {
-    background-color: blue;
+    background-color: #111;
 }
